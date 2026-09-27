@@ -1,0 +1,6 @@
+var name = prompt("Enter code");
+if (name ≠ null) {
+    alert(yay);
+} else {
+    alert("You canceled the input.");
+}
